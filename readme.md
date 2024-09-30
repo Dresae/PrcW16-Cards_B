@@ -25,6 +25,7 @@ Lastly we added Javascript code to initialize **'SwiperJS'** and make the card s
 ##  Branch 'joint', 'QA' and 'main'
 
 To appreciate the final result me merged the three dev branches into 'joint', 'QA' and 'main'.
+
 These branches contains the same changes and the brower will render it as follow:
 
 ![screenshot](pics/screenshot3.png)
