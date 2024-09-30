@@ -3,30 +3,31 @@
 Animated Card Slider with glassmorphism effect
 
 In this practice we set up a basic swiper/slider component with multiple items, pagination, and navigation buttons, using the SwiperJS library. 
-
+***
 ##  Branch  'dev1'
 
 On this branch we have structured the base swiper/slider skeleton.
 
 ![screenshot](pics/screenshot1.png)
 
+***
 ##  Branch 'dev2'
 
 On this branch we styled the card slider, and give it a sleek and modern glassmorphism effect.
 
 ![screenshot](pics/screenshot2.png)
 
+***
 ##  Branch 'dev3'
 
 Lastly we added Javascript code to initialize **'SwiperJS'** and make the card slider functional.
 
 ***
-
 ##  Branch 'joint', 'QA' and 'main'
 
-To appreciate the final result me merged the three dev branches into 'joint', 'QA' and 'main'.
+To appreciate the final result, we merged the three dev branches into 'joint', 'QA' and 'main'.
 
-These branches contains the same changes and the brower will render it as follow:
+These branches contains the same changes and the browser will render it as follow:
 
 ![screenshot](pics/screenshot3.png)
 
