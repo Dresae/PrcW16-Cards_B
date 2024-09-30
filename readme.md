@@ -65,7 +65,7 @@ Here we defined a swiper/slider component with the following elements:
 
 We also included a script tag that link to the swiperJS library(version 11) from a CDN, which is commonly used for creating swiper/slider components.
 
-In this section maintain a **narrative style** so the reader can understand and think as the programmer.
+***
 
 ##  CSS File
 
