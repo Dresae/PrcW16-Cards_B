@@ -70,3 +70,24 @@ body {
     border: 1px solid #fff;
     color: #fff;
   }
+
+  .slider-wrapper .swiper-pagination-bullet {
+    background: #fff;
+    height: 13px;
+    width: 13px;
+    opacity: 0.5;
+  }
+  
+  .slider-wrapper .swiper-pagination-bullet-active {
+    opacity: 1;
+  }
+  
+  .slider-wrapper .swiper-slide-button {
+    color: #fff;
+    margin-top: -55px;
+    transition: 0.2s ease;
+  }
+  
+  .slider-wrapper .swiper-slide-button:hover {
+    color: #4658ff;
+  }
