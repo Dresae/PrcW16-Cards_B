@@ -13,7 +13,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: url("images/bg.jpg") #030728 no-repeat center;
+  background: url("pics/backgroung.png") #030728 no-repeat center; /*add the background of your preference*/
 }
 
 .slider-wrapper {
