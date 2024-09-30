@@ -1,16 +1,19 @@
  
 #  Responsive Card Slider
-Animated Card Silder with glassmorphism effect
+Animated Card Slider with glassmorphism effect
+
+In this practice we set up a basic swiper/slider component with multiple items, pagination, and navigation buttons, using the SwiperJS library. 
 
 ##  Branch  'dev1'
 
-Describe how these branches were used in the practice, its content and what to expect in it.
+In this branch we have structured the base swiper/slider skeleton.
 
-##  Branches Sample 3, Sample 4
+![screenshot](pics/screenshot1.png)
+
+##  Branch 'dev2'
 
 Describe how these branches were used in the practice, its content and what to expect in it. Additionally add some screenshots displaying how will it look like.
 
-![screenshot](pics/screenshot1.png)
 
 ![screenshot](pics/screenshot2.png)
 
