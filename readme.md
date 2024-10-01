@@ -68,42 +68,58 @@ We also included a script tag that link to the swiperJS library(version 11) from
 ***
 
 ##  CSS File
+### Our CSS code was structured into four main blocks to style the cards and slider:
 
--  **Code section title 1**
->
-```css
-Put your code here exactly as it is.
-```
+1-  **Global Styles (* selector)**
+This block sets the default styles for all HTML elements, including:
 
-> Use this text block to describe **relevant facts**, features or functions of your CSS code section that you consider will be useful in understanding **how the style was applied** and its relationship with the HTML code. You **highlight** some parts of this text to **improve its readability**.
+- Removing default margins and padding
+
+- Setting the box model to include padding and border
+
+- Defining the default font family as Montserrat
 ***
 
--  **Code section title 2**
->
-```css
-Put your code here exactly as it is.
-```
+2- **Body Styles (body selector)**
+This block styles the <body> element, which is the parent container for the slider and cards. It:
 
-> Use this text block to describe **relevant facts**, features or functions of your CSS code section that you consider will be useful in understanding **how the style was applied** and its relationship with the HTML code. You **highlight** some parts of this text to **improve its readability**.
+- Centers the content horizontally and vertically using flexbox
+
+- Sets the minimum height to the full viewport height
+
+- Applies a background image and color
 ***
 
--  **Code section title 3**
->
-```css
-Put your code here exactly as it is.
-```
+3- **Slider Wrapper Styles (.slider-wrapper selector)**
+This block styles the container element that wraps the slider, which includes:
 
-> Use this text block to describe **relevant facts**, features or functions of your CSS code section that you consider will be useful in understanding **how the style was applied** and its relationship with the HTML code. You **highlight** some parts of this text to **improve its readability**.
+- Hiding any overflow content
+
+- Setting a maximum width
+
+- Defining the margin and padding for the slider wrapper
 ***
 
--  **Code section title 4**
->
-```css
-Put your code here exactly as it is.
-```
+4- **Card List Item Styles (.card-list .card-item selector)**
+This block styles the individual card items within the slider, which includes:
 
-> Use this text block to describe **relevant facts**, features or functions of your CSS code section that you consider will be useful in understanding **how the style was applied** and its relationship with the HTML code. You **highlight** some parts of this text to **improve its readability**.
+- Setting the height to automatic
+
+- Defining the text color, padding, and display type
+
+- Centering the content horizontally and setting the flex direction to column
 ***
+Note: Each block builds upon the previous one to create a cohesive design for the cards and slider. 
+
+The CSS code was structured in a logical and modular way, making it easy to maintain and update individual components without affecting the overall design.
+***
+
+## JS File
+### Our JavaScript code is structured into three main blocks to handle the slider functionality:
+
+
+
+
 
 -  **Code section title 5**
 >
